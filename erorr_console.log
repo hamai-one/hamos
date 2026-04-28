@@ -3078,3 +3078,215 @@ SOURCE: console:?:?
 STACK:
 N/A
 ----------------------------------
+[2026-04-28T23:22:57.259Z] [LOG] [ModelManager] Initializing all engines concurrently...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:57.350Z] [LOG] [ModelManager] Initializing all engines concurrently...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:57.360Z] [WARN] [VFS] SharedArrayBuffer is not defined. Zero-copy context is disabled. 
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:57.418Z] [WARN] [VFS] SharedArrayBuffer is not defined. Zero-copy context is disabled. 
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:57.439Z] [WARN] -------------- RxDB Open Core RxStorage -------------------------------
+You are using the free Dexie.js based RxStorage implementation from RxDB https://rxdb.info/rx-storage-dexie.html?console=dexie 
+While this is a great option, we want to let you know that there are faster storage solutions available in our premium plugins.
+For professional users and production environments, we highly recommend considering these premium options to enhance performance and reliability.
+ https://rxdb.info/premium/?console=dexie 
+If you already purchased premium access you can disable this log by calling the setPremiumFlag() function from rxdb-premium/plugins/shared.
+---------------------------------------------------------------------
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:57.456Z] [WARN] -------------- RxDB Open Core RxStorage -------------------------------
+You are using the free Dexie.js based RxStorage implementation from RxDB https://rxdb.info/rx-storage-dexie.html?console=dexie 
+While this is a great option, we want to let you know that there are faster storage solutions available in our premium plugins.
+For professional users and production environments, we highly recommend considering these premium options to enhance performance and reliability.
+ https://rxdb.info/premium/?console=dexie 
+If you already purchased premium access you can disable this log by calling the setPremiumFlag() function from rxdb-premium/plugins/shared.
+---------------------------------------------------------------------
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.361Z] [LOG] [ModelManager] First engine ready: Sang Pembicara. Set as default.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.514Z] [LOG] [ModelManager] First engine ready: Sang Pembicara. Set as default.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.875Z] [LOG] [ModelManager] At least one engine is ready. Splash screen can proceed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.884Z] [LOG] [ModelManager] At least one engine is ready. Splash screen can proceed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.890Z] [LOG] 🚀 [SAERE_IGNITION] Starting Singularity Ignition Sequence...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.897Z] [LOG] 🚀 [SAERE_IGNITION] Starting Singularity Ignition Sequence...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.905Z] [LOG] 🧪 [TEST] HMR Death Loop Protection...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.910Z] [WARN] ⚠️ HMR Pause not detected in simulation.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.915Z] [WARN] ⚠️ HMR Pause not detected in simulation.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.917Z] [LOG] [SAERE_LOG] [MANUAL_APPEND] .saere/core_memory.txt: SYSTEM_INIT_1777418578386
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.928Z] [LOG] 🧪 [TEST] Offline Heuristic Resolution...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.931Z] [LOG] 🧪 [TEST] Offline Heuristic Resolution...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.935Z] [LOG] 🧪 [TEST] HMR Death Loop Protection...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.942Z] [LOG] [SAERE_LOG] [MANUAL_APPEND] .saere/core_memory.txt: SYSTEM_INIT_1777418578386
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.961Z] [LOG] ✔️ Fetch failed as expected (Offline).
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.972Z] [LOG] ✔️ Offline Heuristic Test Complete.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.978Z] [LOG] 🧪 [TEST] OOM & Spam Protection...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:58.998Z] [LOG] 🧪 [TEST] OOM & Spam Protection...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:59.047Z] [LOG] ✔️ Offline Heuristic Test Complete.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:59.082Z] [LOG] ✔️ Error Spam Injected. CircuitMaster monitoring active.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:59.097Z] [LOG] ✔️ Error Spam Injected. CircuitMaster monitoring active.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:59.102Z] [LOG] ✔️ Fetch failed as expected (Offline).
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:59.115Z] [LOG] 🧪 [TEST] UI/UX Sync & Persistence...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:59.124Z] [LOG] 🧪 [TEST] UI/UX Sync & Persistence...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:59.135Z] [LOG] ✔️ UI Sync Test Dispatched.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:59.259Z] [LOG] ✔️ UI Sync Test Dispatched.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:59.300Z] [LOG] ✅ [SAERE_IGNITION] All Phase 3 Validations Passed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:59.459Z] [LOG] ✅ [SAERE_IGNITION] All Phase 3 Validations Passed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:23:00.307Z] [WARN] [App] Cross-Origin Isolation required for WebContainer
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:23:00.318Z] [WARN] [App] Cross-Origin Isolation required for WebContainer
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:23:00.367Z] [LOG] [SAERE_LOG] [2026-04-28T23:23:00.172Z] [CIRCUIT_FAILURE] [HASH:24f5f979] {"errorSignature":"OFFLINE_FETCH_ERROR","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:23:00.377Z] [LOG] [SAERE_LOG] [2026-04-28T23:23:00.172Z] [CIRCUIT_FAILURE] [HASH:24f5f979] {"errorSignature":"OFFLINE_FETCH_ERROR","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:23:00.481Z] [LOG] [ModelManager] Installing queued models in background...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:23:00.508Z] [LOG] [ModelManager] Installing queued models in background...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
