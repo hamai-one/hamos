@@ -1,0 +1,2603 @@
+[2026-04-25T14:37:57.649Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-25T15:08:15.186Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-26T10:47:56.414Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-26T14:01:45.576Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-26T17:59:54.117Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-26T18:00:04.151Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-26T18:23:45.838Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-26T18:36:14.796Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-26T18:36:28.290Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-26T20:14:32.030Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-26T22:38:17.999Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-26T22:39:28.885Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-26T22:41:18.809Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-26T22:42:40.669Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-26T22:45:34.353Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-26T22:47:20.811Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-28T15:37:48.340Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-28T15:54:49.544Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-28T15:57:27.989Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T15:57:28.014Z] [LOG] [HAM ENGINE] BOOTING APEX V4.0...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T15:57:28.230Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T15:57:28.244Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T15:57:28.256Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T15:57:28.271Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T15:57:28.775Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T15:57:29.185Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T16:02:14.776Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-28T16:04:41.697Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-28T16:27:26.026Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-28T16:30:47.455Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-28T16:33:20.701Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T16:33:20.734Z] [LOG] [HAM ENGINE] BOOTING APEX V4.0...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T16:33:21.229Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T16:33:21.236Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T16:33:21.388Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T16:33:21.458Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T16:33:22.237Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T16:33:22.342Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T16:53:51.756Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-28T19:46:38.108Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-28T19:52:24.393Z] [LOG] [HAM ENGINE] BOOTING APEX V4.0...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T19:52:24.399Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T19:52:24.536Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T19:52:24.546Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T19:52:24.549Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T19:52:24.553Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:17:36.737Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-28T20:19:57.642Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:19:57.648Z] [LOG] [HAM ENGINE] BOOTING APEX V4.0...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:19:58.276Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:19:58.477Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:19:58.482Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:19:58.553Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:19:59.704Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:19:59.711Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:45:57.191Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-28T20:46:09.895Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:46:09.898Z] [LOG] [HAM ENGINE] BOOTING APEX V4.0...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:46:11.255Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:46:11.268Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:46:11.287Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:46:11.293Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:46:11.499Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:46:11.525Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:46:48.633Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-28T20:46:55.291Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:46:55.303Z] [LOG] [HAM ENGINE] BOOTING APEX V4.0...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:46:55.427Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:46:55.435Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:46:55.438Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:46:55.441Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:46:55.659Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:46:55.663Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:48:31.983Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-28T20:48:39.352Z] [LOG] [HAM ENGINE] BOOTING APEX V4.0...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:48:39.358Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:48:39.610Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:48:39.616Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:48:39.619Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:48:39.624Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:48:40.473Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:48:40.656Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:21.019Z] SERVER BOOTED - LISTENING ON PORT 3000
+----------------------------------
+[2026-04-28T20:52:28.283Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:28.295Z] [LOG] [HAM ENGINE] BOOTING APEX V4.0...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:28.464Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:28.473Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:28.475Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:28.481Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:28.711Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:28.715Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:29.881Z] [LOG] [ModelManager] Initializing all engines concurrently...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:29.893Z] [LOG] [ModelManager] Initializing all engines concurrently...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:29.941Z] [WARN] [VFS] SharedArrayBuffer is not defined. Zero-copy context is disabled. 
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:29.988Z] [WARN] -------------- RxDB Open Core RxStorage -------------------------------
+You are using the free Dexie.js based RxStorage implementation from RxDB https://rxdb.info/rx-storage-dexie.html?console=dexie 
+While this is a great option, we want to let you know that there are faster storage solutions available in our premium plugins.
+For professional users and production environments, we highly recommend considering these premium options to enhance performance and reliability.
+ https://rxdb.info/premium/?console=dexie 
+If you already purchased premium access you can disable this log by calling the setPremiumFlag() function from rxdb-premium/plugins/shared.
+---------------------------------------------------------------------
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:30.019Z] [WARN] -------------- RxDB Open Core RxStorage -------------------------------
+You are using the free Dexie.js based RxStorage implementation from RxDB https://rxdb.info/rx-storage-dexie.html?console=dexie 
+While this is a great option, we want to let you know that there are faster storage solutions available in our premium plugins.
+For professional users and production environments, we highly recommend considering these premium options to enhance performance and reliability.
+ https://rxdb.info/premium/?console=dexie 
+If you already purchased premium access you can disable this log by calling the setPremiumFlag() function from rxdb-premium/plugins/shared.
+---------------------------------------------------------------------
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:30.061Z] [WARN] [VFS] SharedArrayBuffer is not defined. Zero-copy context is disabled. 
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.026Z] [LOG] [ModelManager] First engine ready: Sang Komunikator. Set as default.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.082Z] [LOG] [ModelManager] First engine ready: Sang Komunikator. Set as default.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.160Z] [LOG] [ModelManager] At least one engine is ready. Splash screen can proceed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.190Z] [LOG] [ModelManager] At least one engine is ready. Splash screen can proceed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.213Z] [LOG] 🚀 [SAERE_IGNITION] Starting Singularity Ignition Sequence...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.355Z] [LOG] 🚀 [SAERE_IGNITION] Starting Singularity Ignition Sequence...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.376Z] [LOG] 🧪 [TEST] HMR Death Loop Protection...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.395Z] [LOG] 🧪 [TEST] HMR Death Loop Protection...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.416Z] [WARN] ⚠️ HMR Pause not detected in simulation.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.449Z] [LOG] 🧪 [TEST] Offline Heuristic Resolution...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.475Z] [WARN] ⚠️ HMR Pause not detected in simulation.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.504Z] [LOG] 🧪 [TEST] Offline Heuristic Resolution...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.610Z] [LOG] [SAERE_LOG] [MANUAL_APPEND] .saere/core_memory.txt: SYSTEM_INIT_1777409551085
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.650Z] [LOG] ✔️ Fetch failed as expected (Offline).
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.698Z] [LOG] ✔️ Fetch failed as expected (Offline).
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.732Z] [LOG] ✔️ Offline Heuristic Test Complete.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.766Z] [LOG] ✔️ Offline Heuristic Test Complete.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.781Z] [LOG] 🧪 [TEST] OOM & Spam Protection...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.804Z] [LOG] ✔️ Error Spam Injected. CircuitMaster monitoring active.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:31.959Z] [LOG] 🧪 [TEST] OOM & Spam Protection...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:32.161Z] [LOG] ✔️ Error Spam Injected. CircuitMaster monitoring active.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:32.210Z] [LOG] ✔️ UI Sync Test Dispatched.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:32.251Z] [LOG] 🧪 [TEST] UI/UX Sync & Persistence...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:32.424Z] [LOG] ✔️ UI Sync Test Dispatched.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:32.471Z] [LOG] ✅ [SAERE_IGNITION] All Phase 3 Validations Passed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:32.564Z] [LOG] 🧪 [TEST] UI/UX Sync & Persistence...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:32.632Z] [LOG] ✅ [SAERE_IGNITION] All Phase 3 Validations Passed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:32.731Z] [LOG] [SAERE_LOG] [MANUAL_APPEND] .saere/core_memory.txt: SYSTEM_INIT_1777409551085
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:38.115Z] [WARN] [App] Cross-Origin Isolation required for WebContainer
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:38.130Z] [WARN] [App] Cross-Origin Isolation required for WebContainer
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:38.204Z] [LOG] [ModelManager] Installing queued models in background...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:38.297Z] [ERROR] Unhandled Promise Rejection: TypeError: Cannot read properties of undefined (reading 'length')
+TypeError: Cannot read properties of undefined (reading 'length')
+    at https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/services/vfsService.ts:369:21
+    at async VFSService.lock (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/services/vfsService.ts:177:14)
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:38.399Z] Unhandled Rejection: TypeError: Cannot read properties of undefined (reading 'length')
+SOURCE: unhandledrejection:?:?
+STACK:
+TypeError: Cannot read properties of undefined (reading 'length')
+    at https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/services/vfsService.ts:369:21
+    at async VFSService.lock (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/services/vfsService.ts:177:14)
+----------------------------------
+[2026-04-28T20:52:38.450Z] [LOG] [ModelManager] Installing queued models in background...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:38.647Z] [ERROR] [UNHANDLED_REJECTION] TypeError: Cannot read properties of undefined (reading 'length')
+TypeError: Cannot read properties of undefined (reading 'length')
+    at https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/services/vfsService.ts:369:21
+    at async VFSService.lock (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/services/vfsService.ts:177:14)
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:38.689Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:38.241Z] [CIRCUIT_FAILURE] [HASH:24f5f979] {"errorSignature":"OFFLINE_FETCH_ERROR","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:38.707Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:38.241Z] [CIRCUIT_FAILURE] [HASH:24f5f979] {"errorSignature":"OFFLINE_FETCH_ERROR","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:38.894Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:38.770Z] [CIRCUIT_FAILURE] [HASH:b76a806a] {"errorSignature":"SPAM_ERROR_0","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:38.914Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:38.770Z] [CIRCUIT_FAILURE] [HASH:b76a806a] {"errorSignature":"SPAM_ERROR_0","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:39.514Z] [ERROR] [SAERE_PROXY] Failed to write log to error_log.md TypeError: Cannot read properties of undefined (reading 'length')
+TypeError: Cannot read properties of undefined (reading 'length')
+    at https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/services/vfsService.ts:369:21
+    at async VFSService.lock (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/services/vfsService.ts:177:14)
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:39.611Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:39.226Z] [CIRCUIT_FAILURE] [HASH:252838da] {"errorSignature":"SPAM_ERROR_1","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:39.644Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:39.299Z] [CIRCUIT_FAILURE] [HASH:7acc3a3e] {"errorSignature":"SPAM_ERROR_2","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:39.692Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:39.299Z] [CIRCUIT_FAILURE] [HASH:7acc3a3e] {"errorSignature":"SPAM_ERROR_2","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:39.789Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:39.226Z] [CIRCUIT_FAILURE] [HASH:252838da] {"errorSignature":"SPAM_ERROR_1","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:39.961Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:39.772Z] [CIRCUIT_FAILURE] [HASH:3c631f68] {"errorSignature":"SPAM_ERROR_3","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:40.006Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:39.772Z] [CIRCUIT_FAILURE] [HASH:3c631f68] {"errorSignature":"SPAM_ERROR_3","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:40.035Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:52:39.806Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:40.068Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:52:39.806Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:40.093Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:39.824Z] [CIRCUIT_FAILURE] [HASH:c47f21b7] {"errorSignature":"SPAM_ERROR_4","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:40.128Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:39.824Z] [CIRCUIT_FAILURE] [HASH:c47f21b7] {"errorSignature":"SPAM_ERROR_4","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:40.417Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:40.309Z] [CIRCUIT_FAILURE] [HASH:656ebf53] {"errorSignature":"SPAM_ERROR_5","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:40.445Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:40.309Z] [CIRCUIT_FAILURE] [HASH:656ebf53] {"errorSignature":"SPAM_ERROR_5","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:40.495Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:40.353Z] [CIRCUIT_FAILURE] [HASH:ac38859b] {"errorSignature":"SPAM_ERROR_6","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:40.525Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:40.353Z] [CIRCUIT_FAILURE] [HASH:ac38859b] {"errorSignature":"SPAM_ERROR_6","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:41.040Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:40.855Z] [CIRCUIT_FAILURE] [HASH:29ccfc40] {"errorSignature":"SPAM_ERROR_7","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:41.045Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:40.855Z] [CIRCUIT_FAILURE] [HASH:29ccfc40] {"errorSignature":"SPAM_ERROR_7","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:41.090Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:40.895Z] [CIRCUIT_FAILURE] [HASH:b29dd7ff] {"errorSignature":"SPAM_ERROR_8","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:41.099Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:40.895Z] [CIRCUIT_FAILURE] [HASH:b29dd7ff] {"errorSignature":"SPAM_ERROR_8","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:41.125Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:52:40.915Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:41.133Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:52:40.915Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:41.504Z] [LOG] [ModelManager] Queued models installed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:41.518Z] [LOG] [ModelManager] Queued models installed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:41.557Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:41.387Z] [CIRCUIT_FAILURE] [HASH:667711c6] {"errorSignature":"SPAM_ERROR_9","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:41.569Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:41.387Z] [CIRCUIT_FAILURE] [HASH:667711c6] {"errorSignature":"SPAM_ERROR_9","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:41.584Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:41.415Z] [CIRCUIT_FAILURE] [HASH:d8ff5f90] {"errorSignature":"SPAM_ERROR_10","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:41.598Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:41.415Z] [CIRCUIT_FAILURE] [HASH:d8ff5f90] {"errorSignature":"SPAM_ERROR_10","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:42.060Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:41.920Z] [CIRCUIT_FAILURE] [HASH:4f6aaa87] {"errorSignature":"SPAM_ERROR_11","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:42.116Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:41.920Z] [CIRCUIT_FAILURE] [HASH:4f6aaa87] {"errorSignature":"SPAM_ERROR_11","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:42.122Z] [LOG] THREE.WebGLRenderer: Context Lost.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:42.124Z] [LOG] THREE.WebGLRenderer: Context Lost.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:42.557Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:42.441Z] [CIRCUIT_FAILURE] [HASH:12e264d0] {"errorSignature":"SPAM_ERROR_12","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:42.569Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:42.441Z] [CIRCUIT_FAILURE] [HASH:12e264d0] {"errorSignature":"SPAM_ERROR_12","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:43.282Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:42.975Z] [CIRCUIT_FAILURE] [HASH:d88e1b97] {"errorSignature":"SPAM_ERROR_13","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:43.299Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:42.975Z] [CIRCUIT_FAILURE] [HASH:d88e1b97] {"errorSignature":"SPAM_ERROR_13","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:43.308Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:52:42.993Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:43.320Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:52:42.993Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:43.869Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:43.499Z] [CIRCUIT_FAILURE] [HASH:e0d9197d] {"errorSignature":"SPAM_ERROR_14","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:43.887Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:43.499Z] [CIRCUIT_FAILURE] [HASH:e0d9197d] {"errorSignature":"SPAM_ERROR_14","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:43.983Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:43.986Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:44.400Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:44.019Z] [CIRCUIT_FAILURE] [HASH:31ccad7f] {"errorSignature":"SPAM_ERROR_15","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:44.407Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:44.019Z] [CIRCUIT_FAILURE] [HASH:31ccad7f] {"errorSignature":"SPAM_ERROR_15","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:44.517Z] [LOG] [Blackboard] Loaded 11 entries from browser-idb
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:44.551Z] [LOG] [Blackboard] Loaded 11 entries from browser-idb
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:44.557Z] [LOG] [SwarmDIS] Digital Immune System AKTIF.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:44.569Z] [LOG] [SwarmDIS] Digital Immune System AKTIF.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:44.735Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:44.549Z] [CIRCUIT_FAILURE] [HASH:52d5c0f2] {"errorSignature":"SPAM_ERROR_16","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:44.740Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:44.549Z] [CIRCUIT_FAILURE] [HASH:52d5c0f2] {"errorSignature":"SPAM_ERROR_16","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:45.228Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:45.084Z] [CIRCUIT_FAILURE] [HASH:c583e214] {"errorSignature":"SPAM_ERROR_17","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:45.253Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:45.084Z] [CIRCUIT_FAILURE] [HASH:c583e214] {"errorSignature":"SPAM_ERROR_17","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:45.400Z] [LOG] [SwarmOrchestrator] Inisialisasi sistem...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:45.404Z] [LOG] [SwarmOrchestrator] Inisialisasi sistem...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:45.879Z] [ERROR] [SAERE_PROXY] Failed to write log to SAERE_EVOLUTION.md TypeError: Cannot read properties of undefined (reading 'length')
+TypeError: Cannot read properties of undefined (reading 'length')
+    at https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/services/vfsService.ts:369:21
+    at async VFSService.lock (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/services/vfsService.ts:177:14)
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:46.569Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:45.624Z] [CIRCUIT_FAILURE] [HASH:919218fe] {"errorSignature":"SPAM_ERROR_18","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:46.718Z] [LOG] [SAERE_LOG] [2026-04-28T20:52:45.624Z] [CIRCUIT_FAILURE] [HASH:919218fe] {"errorSignature":"SPAM_ERROR_18","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:46.996Z] [WARN] [VFS] ensureDir EEXIST or error for /logs TypeError: Failed to fetch
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:52:47.057Z] [WARN] [VFS] ensureDir EEXIST or error for /logs TypeError: Failed to fetch
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:29.392Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:29.399Z] [LOG] [HAM ENGINE] BOOTING APEX V4.0...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:29.645Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:29.651Z] [LOG] [SAERE] ErrorInterceptor booted with v7.0 Anonymizer.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:29.663Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:29.673Z] [LOG] [SecureVault] Initializing with dynamic entropy...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:29.866Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:29.868Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:30.761Z] [LOG] [SAERE] QuantumSync: Cross-tab synchronization active
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:30.769Z] [LOG] [SAERE] QuantumSync: Cross-tab synchronization active
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:30.795Z] [LOG] [SAERE] State Rehydrated from IndexedDB
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:30.800Z] [LOG] [SAERE] State Rehydrated from IndexedDB
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:30.998Z] [LOG] [ModelManager] Initializing all engines concurrently...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:31.000Z] [LOG] [ModelManager] Initializing all engines concurrently...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:31.001Z] [WARN] [VFS] SharedArrayBuffer is not defined. Zero-copy context is disabled. 
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:31.003Z] [WARN] [VFS] SharedArrayBuffer is not defined. Zero-copy context is disabled. 
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:31.005Z] [WARN] -------------- RxDB Open Core RxStorage -------------------------------
+You are using the free Dexie.js based RxStorage implementation from RxDB https://rxdb.info/rx-storage-dexie.html?console=dexie 
+While this is a great option, we want to let you know that there are faster storage solutions available in our premium plugins.
+For professional users and production environments, we highly recommend considering these premium options to enhance performance and reliability.
+ https://rxdb.info/premium/?console=dexie 
+If you already purchased premium access you can disable this log by calling the setPremiumFlag() function from rxdb-premium/plugins/shared.
+---------------------------------------------------------------------
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:31.007Z] [WARN] -------------- RxDB Open Core RxStorage -------------------------------
+You are using the free Dexie.js based RxStorage implementation from RxDB https://rxdb.info/rx-storage-dexie.html?console=dexie 
+While this is a great option, we want to let you know that there are faster storage solutions available in our premium plugins.
+For professional users and production environments, we highly recommend considering these premium options to enhance performance and reliability.
+ https://rxdb.info/premium/?console=dexie 
+If you already purchased premium access you can disable this log by calling the setPremiumFlag() function from rxdb-premium/plugins/shared.
+---------------------------------------------------------------------
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.048Z] [LOG] [ModelManager] First engine ready: Gemma 2 9B (Quantum). Set as default.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.056Z] [LOG] [ModelManager] First engine ready: Gemma 2 9B (Quantum). Set as default.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.107Z] [LOG] [ModelManager] At least one engine is ready. Splash screen can proceed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.112Z] [LOG] [ModelManager] At least one engine is ready. Splash screen can proceed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.121Z] [LOG] 🚀 [SAERE_IGNITION] Starting Singularity Ignition Sequence...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.137Z] [LOG] 🚀 [SAERE_IGNITION] Starting Singularity Ignition Sequence...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.146Z] [LOG] 🧪 [TEST] HMR Death Loop Protection...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.148Z] [LOG] 🧪 [TEST] HMR Death Loop Protection...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.152Z] [WARN] ⚠️ HMR Pause not detected in simulation.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.155Z] [LOG] 🧪 [TEST] Offline Heuristic Resolution...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.159Z] [WARN] ⚠️ HMR Pause not detected in simulation.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.162Z] [LOG] 🧪 [TEST] Offline Heuristic Resolution...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.170Z] [LOG] ✔️ Fetch failed as expected (Offline).
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.173Z] [LOG] ✔️ Fetch failed as expected (Offline).
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.188Z] [LOG] ✔️ Offline Heuristic Test Complete.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.191Z] [LOG] ✔️ Offline Heuristic Test Complete.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.194Z] [LOG] 🧪 [TEST] OOM & Spam Protection...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.202Z] [LOG] 🧪 [TEST] OOM & Spam Protection...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.221Z] [LOG] ✔️ Error Spam Injected. CircuitMaster monitoring active.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.223Z] [LOG] ✔️ Error Spam Injected. CircuitMaster monitoring active.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.225Z] [LOG] 🧪 [TEST] UI/UX Sync & Persistence...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.231Z] [LOG] 🧪 [TEST] UI/UX Sync & Persistence...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.233Z] [LOG] [SAERE_LOG] [MANUAL_APPEND] .saere/core_memory.txt: SYSTEM_INIT_1777409672074
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.235Z] [LOG] [SAERE_LOG] [MANUAL_APPEND] .saere/core_memory.txt: SYSTEM_INIT_1777409672074
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.237Z] [LOG] ✔️ UI Sync Test Dispatched.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.240Z] [LOG] ✔️ UI Sync Test Dispatched.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.243Z] [LOG] ✅ [SAERE_IGNITION] All Phase 3 Validations Passed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:32.245Z] [LOG] ✅ [SAERE_IGNITION] All Phase 3 Validations Passed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:34.012Z] [WARN] [App] Cross-Origin Isolation required for WebContainer
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:34.019Z] [WARN] [App] Cross-Origin Isolation required for WebContainer
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:34.067Z] [LOG] [ModelManager] Installing queued models in background...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:34.076Z] [LOG] [ModelManager] Installing queued models in background...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:34.084Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:33.958Z] [CIRCUIT_FAILURE] [HASH:24f5f979] {"errorSignature":"OFFLINE_FETCH_ERROR","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:34.090Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:33.958Z] [CIRCUIT_FAILURE] [HASH:24f5f979] {"errorSignature":"OFFLINE_FETCH_ERROR","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:34.636Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:34.481Z] [CIRCUIT_FAILURE] [HASH:b76a806a] {"errorSignature":"SPAM_ERROR_0","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:34.643Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:34.481Z] [CIRCUIT_FAILURE] [HASH:b76a806a] {"errorSignature":"SPAM_ERROR_0","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:35.186Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:35.008Z] [CIRCUIT_FAILURE] [HASH:252838da] {"errorSignature":"SPAM_ERROR_1","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:35.191Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:35.008Z] [CIRCUIT_FAILURE] [HASH:252838da] {"errorSignature":"SPAM_ERROR_1","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:35.934Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:35.538Z] [CIRCUIT_FAILURE] [HASH:7acc3a3e] {"errorSignature":"SPAM_ERROR_2","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:35.945Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:35.538Z] [CIRCUIT_FAILURE] [HASH:7acc3a3e] {"errorSignature":"SPAM_ERROR_2","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:36.289Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:36.074Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:36.295Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:36.061Z] [CIRCUIT_FAILURE] [HASH:3c631f68] {"errorSignature":"SPAM_ERROR_3","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:36.298Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:36.074Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:36.303Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:36.061Z] [CIRCUIT_FAILURE] [HASH:3c631f68] {"errorSignature":"SPAM_ERROR_3","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:36.437Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:36.259Z] [CIRCUIT_FAILURE] [HASH:c47f21b7] {"errorSignature":"SPAM_ERROR_4","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:36.442Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:36.259Z] [CIRCUIT_FAILURE] [HASH:c47f21b7] {"errorSignature":"SPAM_ERROR_4","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:36.705Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:36.599Z] [CIRCUIT_FAILURE] [HASH:656ebf53] {"errorSignature":"SPAM_ERROR_5","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:36.707Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:36.599Z] [CIRCUIT_FAILURE] [HASH:656ebf53] {"errorSignature":"SPAM_ERROR_5","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:36.890Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:36.787Z] [CIRCUIT_FAILURE] [HASH:ac38859b] {"errorSignature":"SPAM_ERROR_6","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:36.896Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:36.787Z] [CIRCUIT_FAILURE] [HASH:ac38859b] {"errorSignature":"SPAM_ERROR_6","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:37.217Z] [LOG] [ModelManager] Queued models installed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:37.227Z] [LOG] [ModelManager] Queued models installed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:37.300Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:37.119Z] [CIRCUIT_FAILURE] [HASH:29ccfc40] {"errorSignature":"SPAM_ERROR_7","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:37.306Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:37.119Z] [CIRCUIT_FAILURE] [HASH:29ccfc40] {"errorSignature":"SPAM_ERROR_7","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:37.919Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:37.371Z] [CIRCUIT_FAILURE] [HASH:b29dd7ff] {"errorSignature":"SPAM_ERROR_8","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:37.924Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:37.371Z] [CIRCUIT_FAILURE] [HASH:b29dd7ff] {"errorSignature":"SPAM_ERROR_8","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:37.935Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:37.408Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:37.945Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:37.408Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:37.973Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:37.645Z] [CIRCUIT_FAILURE] [HASH:667711c6] {"errorSignature":"SPAM_ERROR_9","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:37.981Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:37.645Z] [CIRCUIT_FAILURE] [HASH:667711c6] {"errorSignature":"SPAM_ERROR_9","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:38.237Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:37.890Z] [CIRCUIT_FAILURE] [HASH:d8ff5f90] {"errorSignature":"SPAM_ERROR_10","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:38.243Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:37.890Z] [CIRCUIT_FAILURE] [HASH:d8ff5f90] {"errorSignature":"SPAM_ERROR_10","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:38.464Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:38.161Z] [CIRCUIT_FAILURE] [HASH:4f6aaa87] {"errorSignature":"SPAM_ERROR_11","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:38.470Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:38.161Z] [CIRCUIT_FAILURE] [HASH:4f6aaa87] {"errorSignature":"SPAM_ERROR_11","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:39.104Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:38.414Z] [CIRCUIT_FAILURE] [HASH:12e264d0] {"errorSignature":"SPAM_ERROR_12","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:39.109Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:38.414Z] [CIRCUIT_FAILURE] [HASH:12e264d0] {"errorSignature":"SPAM_ERROR_12","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:39.201Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:38.685Z] [CIRCUIT_FAILURE] [HASH:d88e1b97] {"errorSignature":"SPAM_ERROR_13","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:39.207Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:38.685Z] [CIRCUIT_FAILURE] [HASH:d88e1b97] {"errorSignature":"SPAM_ERROR_13","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:39.212Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:38.705Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:39.215Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:38.705Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:39.980Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:38.940Z] [CIRCUIT_FAILURE] [HASH:e0d9197d] {"errorSignature":"SPAM_ERROR_14","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:39.987Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:38.940Z] [CIRCUIT_FAILURE] [HASH:e0d9197d] {"errorSignature":"SPAM_ERROR_14","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:40.142Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:39.210Z] [CIRCUIT_FAILURE] [HASH:31ccad7f] {"errorSignature":"SPAM_ERROR_15","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:40.144Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:39.210Z] [CIRCUIT_FAILURE] [HASH:31ccad7f] {"errorSignature":"SPAM_ERROR_15","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:40.153Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:39.456Z] [CIRCUIT_FAILURE] [HASH:52d5c0f2] {"errorSignature":"SPAM_ERROR_16","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:40.160Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:39.456Z] [CIRCUIT_FAILURE] [HASH:52d5c0f2] {"errorSignature":"SPAM_ERROR_16","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:40.166Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:39.744Z] [CIRCUIT_FAILURE] [HASH:c583e214] {"errorSignature":"SPAM_ERROR_17","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:40.180Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:39.744Z] [CIRCUIT_FAILURE] [HASH:c583e214] {"errorSignature":"SPAM_ERROR_17","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:40.298Z] [LOG] THREE.WebGLRenderer: Context Lost.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:40.300Z] [LOG] THREE.WebGLRenderer: Context Lost.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:40.899Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:39.991Z] [CIRCUIT_FAILURE] [HASH:919218fe] {"errorSignature":"SPAM_ERROR_18","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:40.902Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:39.991Z] [CIRCUIT_FAILURE] [HASH:919218fe] {"errorSignature":"SPAM_ERROR_18","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:40.929Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:40.014Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:40.950Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:40.014Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:40.961Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:40.519Z] [CIRCUIT_FAILURE] [HASH:a94a3d18] {"errorSignature":"SPAM_ERROR_20","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:40.969Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:40.275Z] [CIRCUIT_FAILURE] [HASH:cfe17989] {"errorSignature":"SPAM_ERROR_19","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:40.971Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:40.519Z] [CIRCUIT_FAILURE] [HASH:a94a3d18] {"errorSignature":"SPAM_ERROR_20","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:40.978Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:40.275Z] [CIRCUIT_FAILURE] [HASH:cfe17989] {"errorSignature":"SPAM_ERROR_19","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:41.057Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:41.061Z] [WARN] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:41.185Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:40.796Z] [CIRCUIT_FAILURE] [HASH:5af4eb0a] {"errorSignature":"SPAM_ERROR_21","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:41.191Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:40.796Z] [CIRCUIT_FAILURE] [HASH:5af4eb0a] {"errorSignature":"SPAM_ERROR_21","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:41.312Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:41.037Z] [CIRCUIT_FAILURE] [HASH:5dcf9833] {"errorSignature":"SPAM_ERROR_22","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:41.321Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:41.037Z] [CIRCUIT_FAILURE] [HASH:5dcf9833] {"errorSignature":"SPAM_ERROR_22","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:41.844Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:41.323Z] [CIRCUIT_FAILURE] [HASH:240c8d2f] {"errorSignature":"SPAM_ERROR_23","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:41.852Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:41.341Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:41.856Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:41.323Z] [CIRCUIT_FAILURE] [HASH:240c8d2f] {"errorSignature":"SPAM_ERROR_23","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:41.857Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:41.341Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:42.154Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:41.589Z] [CIRCUIT_FAILURE] [HASH:a3addf3e] {"errorSignature":"SPAM_ERROR_24","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:42.321Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:41.589Z] [CIRCUIT_FAILURE] [HASH:a3addf3e] {"errorSignature":"SPAM_ERROR_24","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:42.345Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:41.855Z] [CIRCUIT_FAILURE] [HASH:ed4f1e9b] {"errorSignature":"SPAM_ERROR_25","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:42.355Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:41.855Z] [CIRCUIT_FAILURE] [HASH:ed4f1e9b] {"errorSignature":"SPAM_ERROR_25","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:43.348Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:42.106Z] [CIRCUIT_FAILURE] [HASH:2f414c1f] {"errorSignature":"SPAM_ERROR_26","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:43.358Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:42.106Z] [CIRCUIT_FAILURE] [HASH:2f414c1f] {"errorSignature":"SPAM_ERROR_26","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:43.711Z] [LOG] [SwarmOrchestrator] Inisialisasi sistem...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:43.728Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:43.148Z] [CIRCUIT_FAILURE] [HASH:e6c21ad2] {"errorSignature":"SPAM_ERROR_30","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:43.738Z] [LOG] [SwarmOrchestrator] Inisialisasi sistem...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:43.750Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:43.148Z] [CIRCUIT_FAILURE] [HASH:e6c21ad2] {"errorSignature":"SPAM_ERROR_30","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:43.934Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:42.891Z] [CIRCUIT_FAILURE] [HASH:f949b89a] {"errorSignature":"SPAM_ERROR_29","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:43.974Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:42.373Z] [CIRCUIT_FAILURE] [HASH:c799b3f3] {"errorSignature":"SPAM_ERROR_27","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.060Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:42.632Z] [CIRCUIT_FAILURE] [HASH:c7008d29] {"errorSignature":"SPAM_ERROR_28","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.103Z] [LOG] [Blackboard] Loaded 12 entries from browser-idb
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.108Z] [LOG] [SwarmDIS] Digital Immune System AKTIF.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.139Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:42.642Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.150Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:42.373Z] [CIRCUIT_FAILURE] [HASH:c799b3f3] {"errorSignature":"SPAM_ERROR_27","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.205Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:42.891Z] [CIRCUIT_FAILURE] [HASH:f949b89a] {"errorSignature":"SPAM_ERROR_29","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.267Z] [LOG] [Blackboard] Loaded 12 entries from browser-idb
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.373Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:42.642Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.397Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:43.225Z] [CIRCUIT_FAILURE] [HASH:c4c0cd82] {"errorSignature":"SPAM_ERROR_31","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.405Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:43.420Z] [CIRCUIT_FAILURE] [HASH:09b78fe0] {"errorSignature":"SPAM_ERROR_32","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.411Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:43.420Z] [CIRCUIT_FAILURE] [HASH:09b78fe0] {"errorSignature":"SPAM_ERROR_32","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.415Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:43.225Z] [CIRCUIT_FAILURE] [HASH:c4c0cd82] {"errorSignature":"SPAM_ERROR_31","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.443Z] [LOG] [SwarmDIS] Digital Immune System AKTIF.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.447Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:42.632Z] [CIRCUIT_FAILURE] [HASH:c7008d29] {"errorSignature":"SPAM_ERROR_28","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.566Z] [LOG] [SwarmOrchestrator] agent23 (Unit-23 (SemanticNeuralPatcher)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.585Z] [LOG] [SwarmOrchestrator] agent28 (The Illusionist) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.633Z] [LOG] [SwarmOrchestrator] agent29 (The Physician) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:44.641Z] [LOG] [SwarmDIS] Swarm berhasil di-boot untuk DIS.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.253Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:44.285Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.260Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:44.185Z] [CIRCUIT_FAILURE] [HASH:397c7aee] {"errorSignature":"SPAM_ERROR_37","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.270Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:44.185Z] [CIRCUIT_FAILURE] [HASH:397c7aee] {"errorSignature":"SPAM_ERROR_37","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.281Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:43.934Z] [CIRCUIT_FAILURE] [HASH:f17187c0] {"errorSignature":"SPAM_ERROR_36","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.297Z] [LOG] [SwarmOrchestrator] agent13 (Unit-13 (NeuralPatcher)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.308Z] [LOG] [SwarmOrchestrator] agent12 (Unit-12 (QuantumOptimizer)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.326Z] [LOG] [SwarmOrchestrator] agent11 (Unit-11 (SchemaInferer)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.385Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:44.717Z] [CIRCUIT_FAILURE] [HASH:ec36596d] {"errorSignature":"SPAM_ERROR_41","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.389Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:44.835Z] [CIRCUIT_FAILURE] [HASH:92be9977] {"errorSignature":"SPAM_ERROR_42","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.395Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:44.717Z] [CIRCUIT_FAILURE] [HASH:ec36596d] {"errorSignature":"SPAM_ERROR_41","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.411Z] [LOG] [SwarmOrchestrator] agent12 (Unit-12 (QuantumOptimizer)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.422Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:44.835Z] [CIRCUIT_FAILURE] [HASH:92be9977] {"errorSignature":"SPAM_ERROR_42","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.438Z] [LOG] [SwarmOrchestrator] agent20 (Unit-20 (ContextCompressor)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.453Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:43.934Z] [CIRCUIT_FAILURE] [HASH:f17187c0] {"errorSignature":"SPAM_ERROR_36","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.484Z] [LOG] [SwarmOrchestrator] agent20 (Unit-20 (ContextCompressor)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.496Z] [LOG] [SwarmOrchestrator] agent22 (Unit-22 (ThermalScheduler)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.504Z] [LOG] [SwarmOrchestrator] agent19 (Unit-19 (UIAutomator)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.512Z] [LOG] [SwarmOrchestrator] agent22 (Unit-22 (ThermalScheduler)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.514Z] [LOG] [KeyRotator] Pool updated. Total global keys: 34
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.519Z] [LOG] [SwarmOrchestrator] agent1 (The Weaver) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.527Z] [LOG] [SwarmOrchestrator] agent2 (The Logic Gate) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.538Z] [LOG] [KeyRotator] Pool updated. Total global keys: 34
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.553Z] [LOG] [SwarmOrchestrator] agent1 (The Weaver) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.556Z] [LOG] [SwarmOrchestrator] agent4 (The Accelerator) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.561Z] [LOG] [SwarmOrchestrator] agent4 (The Accelerator) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.566Z] [LOG] [SwarmOrchestrator] agent6 (The Inquisitor) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.571Z] [LOG] [SwarmOrchestrator] agent3 (The Sentinel) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.576Z] [LOG] [SwarmOrchestrator] agent8 (The Scribe) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.585Z] [LOG] [SwarmOrchestrator] agent6 (The Inquisitor) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.592Z] [LOG] [SwarmOrchestrator] agent5 (The Archivist) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.594Z] [LOG] [SwarmOrchestrator] agent7 (The Mechanic) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.598Z] [LOG] [SwarmOrchestrator] agent5 (The Archivist) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.601Z] [LOG] [SwarmOrchestrator] agent21 (Unit-21 (BridgeMaster)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.605Z] [LOG] [SwarmOrchestrator] agent2 (The Logic Gate) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.607Z] [LOG] [SwarmOrchestrator] agent7 (The Mechanic) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.615Z] [LOG] [SwarmOrchestrator] agent10 (Unit-10 (APIScanner)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.621Z] [LOG] [SwarmOrchestrator] agent9 (Unit-9 (DataMiner)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.626Z] [LOG] [SwarmOrchestrator] agent9 (Unit-9 (DataMiner)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.628Z] [LOG] [SwarmOrchestrator] agent8 (The Scribe) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.633Z] [LOG] [SwarmOrchestrator] agent10 (Unit-10 (APIScanner)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.650Z] [LOG] [SwarmOrchestrator] agent15 (Unit-15 (EventOrchestrator)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.652Z] [LOG] [SwarmOrchestrator] agent21 (Unit-21 (BridgeMaster)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.655Z] [LOG] [SwarmOrchestrator] agent3 (The Sentinel) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.659Z] [LOG] [SwarmOrchestrator] agent15 (Unit-15 (EventOrchestrator)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.666Z] [LOG] [SwarmOrchestrator] agent16 (Unit-16 (CryptoGuardian)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.678Z] [LOG] [SwarmOrchestrator] agent16 (Unit-16 (CryptoGuardian)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.683Z] [LOG] [SwarmOrchestrator] agent19 (Unit-19 (UIAutomator)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.688Z] [LOG] [SwarmOrchestrator] agent18 (Unit-18 (StateHydrator)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.693Z] [LOG] [SwarmOrchestrator] agent18 (Unit-18 (StateHydrator)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.701Z] [LOG] [SwarmOrchestrator] agent17 (Unit-17 (DependencyOracle)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.708Z] [LOG] [SwarmOrchestrator] agent25 (DeepAgentic) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.713Z] [LOG] [SwarmOrchestrator] agent17 (Unit-17 (DependencyOracle)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.717Z] [LOG] [agent2] Attempting with: gemini-3.1-pro-preview...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.728Z] [LOG] [agent2] Attempting with: gemini-3.1-pro-preview...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.767Z] [LOG] [SwarmOrchestrator] Mendelegasikan tugas ke agent2...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.777Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:44.452Z] [CIRCUIT_FAILURE] [HASH:9c1f6beb] {"errorSignature":"SPAM_ERROR_40","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.782Z] [LOG] [SwarmDIS] Swarm berhasil di-boot untuk DIS.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.785Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:44.269Z] [CIRCUIT_FAILURE] [HASH:92a653c0] {"errorSignature":"SPAM_ERROR_38","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.789Z] [LOG] [SwarmOrchestrator] agent24 (The Eternal Mover) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.791Z] [LOG] [SwarmOrchestrator] agent26 (The Maestro) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.794Z] [LOG] [SwarmOrchestrator] agent27 (The Director) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.798Z] [LOG] [SwarmOrchestrator] agent23 (Unit-23 (SemanticNeuralPatcher)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.801Z] [LOG] [SwarmOrchestrator] agent25 (DeepAgentic) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.808Z] [LOG] [SwarmOrchestrator] agent26 (The Maestro) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.812Z] [LOG] [SwarmOrchestrator] agent28 (The Illusionist) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.814Z] [LOG] [SwarmOrchestrator] agent27 (The Director) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.851Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:44.452Z] [CIRCUIT_FAILURE] [HASH:9c1f6beb] {"errorSignature":"SPAM_ERROR_40","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.856Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:44.269Z] [CIRCUIT_FAILURE] [HASH:92a653c0] {"errorSignature":"SPAM_ERROR_38","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.881Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:44.285Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.893Z] [ERROR] %o
+
+%s
+
+%s
+ TypeError: Failed to fetch dynamically imported module: https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/components/HamAiStudio/index.tsx
+TypeError: Failed to fetch dynamically imported module: https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/components/HamAiStudio/index.tsx The above error occurred in one of your React components. React will try to recreate this component tree from scratch using the error boundary you provided, ErrorBoundary.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.899Z] [LOG] [SwarmOrchestrator] agent14 (Unit-14 (VFSArchitect)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.913Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:43.854Z] [CIRCUIT_FAILURE] [HASH:0e046862] {"errorSignature":"SPAM_ERROR_35","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.922Z] [ERROR] Uncaught error: TypeError: Failed to fetch dynamically imported module: https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/components/HamAiStudio/index.tsx
+TypeError: Failed to fetch dynamically imported module: https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/components/HamAiStudio/index.tsx {"componentStack":"\n    at Lazy (<anonymous>)\n    at Suspense (<anonymous>)\n    at TabRenderer (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/App/TabRenderer.tsx:64:31)\n    at div (<anonymous>)\n    at MotionComponent (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/node_modules/framer-motion/dist/es/motion/index.mjs?v=c95c767f:22:10)\n    at PresenceChild (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/node_modules/framer-motion/dist/es/components/AnimatePresence/PresenceChild.mjs?v=c95c767f:9:26)\n    at AnimatePresence (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/node_modules/framer-motion/dist/es/components/AnimatePresence/index.mjs?v=c95c767f:10:28)\n    at div (<anonymous>)\n    at div (<anonymous>)\n    at div (<anonymous>)\n    at div (<anonymous>)\n    at PromptProvider (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/context/PromptContext.tsx:22:34)\n    at TrialGuard (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/components/TrialGuard.tsx:14:38)\n    at ErrorBoundary (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/components/ErrorBoundary.tsx:14:5)\n    at App (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/App.tsx:37:25)\n    at ConfirmProvider (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/context/ConfirmContext.tsx:22:35)\n    at ToastProvider (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/context/ToastContext.tsx:14:33)\n    at LanguageProvider (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/context/LanguageContext.tsx:327:36)\n    at ThemeProvider (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/context/ThemeContext.tsx:13:33)\n    at GlobalStateProvider (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/contexts/GlobalStateContext.tsx:21:39)\n    at ErrorBoundary (https://fictional-sniffle-xr4ppx4gx4whgxp-3000.app.github.dev/src/components/ErrorBoundary.tsx:14:5)"}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.928Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:45.255Z] [CIRCUIT_FAILURE] [HASH:0b530570] {"errorSignature":"SPAM_ERROR_45","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.937Z] [LOG] [SwarmOrchestrator] agent11 (Unit-11 (SchemaInferer)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.939Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:45.255Z] [CIRCUIT_FAILURE] [HASH:0b530570] {"errorSignature":"SPAM_ERROR_45","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.948Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:45.365Z] [CIRCUIT_FAILURE] [HASH:5ae4921e] {"errorSignature":"SPAM_ERROR_46","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.950Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:45.365Z] [CIRCUIT_FAILURE] [HASH:5ae4921e] {"errorSignature":"SPAM_ERROR_46","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.953Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:44.395Z] [CIRCUIT_FAILURE] [HASH:a8e719ff] {"errorSignature":"SPAM_ERROR_39","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.983Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:45.452Z] [CIRCUIT_FAILURE] [HASH:e5df6803] {"errorSignature":"SPAM_ERROR_47","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:45.989Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:45.452Z] [CIRCUIT_FAILURE] [HASH:e5df6803] {"errorSignature":"SPAM_ERROR_47","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.053Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:43.854Z] [CIRCUIT_FAILURE] [HASH:0e046862] {"errorSignature":"SPAM_ERROR_35","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.073Z] [LOG] [SwarmOrchestrator] agent29 (The Physician) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.080Z] [LOG] [SwarmOrchestrator] agent13 (Unit-13 (NeuralPatcher)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.095Z] [LOG] [SwarmDIS] Swarm berhasil di-boot untuk DIS.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.107Z] [LOG] [SwarmOrchestrator] agent28 (The Illusionist) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.120Z] [LOG] [SwarmOrchestrator] agent24 (The Eternal Mover) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.126Z] [LOG] [SwarmOrchestrator] agent29 (The Physician) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.136Z] [LOG] [agent2] Attempting with: gemini-3-flash-preview...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.148Z] [LOG] [SwarmOrchestrator] Mendelegasikan tugas ke agent2...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.203Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:43.666Z] [CIRCUIT_FAILURE] [HASH:2cf908ad] {"errorSignature":"SPAM_ERROR_33","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.208Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:43.666Z] [CIRCUIT_FAILURE] [HASH:2cf908ad] {"errorSignature":"SPAM_ERROR_33","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.225Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:45.497Z] [CIRCUIT_FAILURE] [HASH:383ef024] {"errorSignature":"SPAM_ERROR_48","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.230Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:45.510Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.232Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:45.497Z] [CIRCUIT_FAILURE] [HASH:383ef024] {"errorSignature":"SPAM_ERROR_48","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.236Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:45.510Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.627Z] [WARN] [agent2] [FAILOVER] Model gemini-1.5-flash failed. Key: AIzaSyDFuG... Error: {"error":{"code":404,"message":"models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.","status":"NOT_FOUND"}}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.650Z] [WARN] [agent2] [FAILOVER] Model gemini-1.5-flash failed. Key: AIzaSyDFuG... Error: {"error":{"code":404,"message":"models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.","status":"NOT_FOUND"}}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.659Z] [LOG] [agent2] Attempting with: gemini-2.0-flash...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.661Z] [WARN] [KeyRotator] PENALTY: Moving failed key AIzaSyDFuG... to the end of the global queue.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.672Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:46.446Z] [CIRCUIT_FAILURE] [HASH:347281b2] {"errorSignature":"SPAM_ERROR_54","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.677Z] [WARN] [KeyRotator] PENALTY: Moving failed key AIzaSyDFuG... to the end of the global queue.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.684Z] [LOG] [agent2] Attempting with: gemini-2.0-flash...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.687Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:46.446Z] [CIRCUIT_FAILURE] [HASH:347281b2] {"errorSignature":"SPAM_ERROR_54","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.721Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:46.500Z] [CIRCUIT_FAILURE] [HASH:945c33f8] {"errorSignature":"SPAM_ERROR_55","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.764Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:46.500Z] [CIRCUIT_FAILURE] [HASH:945c33f8] {"errorSignature":"SPAM_ERROR_55","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.769Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:46.540Z] [CIRCUIT_FAILURE] [HASH:a3597148] {"errorSignature":"SPAM_ERROR_56","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.771Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:44.395Z] [CIRCUIT_FAILURE] [HASH:a8e719ff] {"errorSignature":"SPAM_ERROR_39","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.775Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:46.540Z] [CIRCUIT_FAILURE] [HASH:a3597148] {"errorSignature":"SPAM_ERROR_56","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.843Z] [LOG] [agent2 - The Logic Gate] Memulai task (SUPREME 9-TIER PROTOCOL)...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.951Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:45.783Z] [CIRCUIT_FAILURE] [HASH:691402c4] {"errorSignature":"SPAM_ERROR_49","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:46.986Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:45.783Z] [CIRCUIT_FAILURE] [HASH:691402c4] {"errorSignature":"SPAM_ERROR_49","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.026Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:45.890Z] [CIRCUIT_FAILURE] [HASH:3d6f8fea] {"errorSignature":"SPAM_ERROR_50","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.029Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:45.890Z] [CIRCUIT_FAILURE] [HASH:3d6f8fea] {"errorSignature":"SPAM_ERROR_50","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.162Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:44.918Z] [CIRCUIT_FAILURE] [HASH:1c93e0ee] {"errorSignature":"SPAM_ERROR_43","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.190Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:46.743Z] [CIRCUIT_FAILURE] [HASH:15f6b18e] {"errorSignature":"SPAM_ERROR_57","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.193Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:46.743Z] [CIRCUIT_FAILURE] [HASH:15f6b18e] {"errorSignature":"SPAM_ERROR_57","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.252Z] [LOG] [SwarmOrchestrator] agent14 (Unit-14 (VFSArchitect)) berhasil di-booting.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.290Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:44.918Z] [CIRCUIT_FAILURE] [HASH:1c93e0ee] {"errorSignature":"SPAM_ERROR_43","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.305Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:44.978Z] [CIRCUIT_FAILURE] [HASH:1073f4b7] {"errorSignature":"SPAM_ERROR_44","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.307Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:44.936Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.312Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:44.936Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.314Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:44.978Z] [CIRCUIT_FAILURE] [HASH:1073f4b7] {"errorSignature":"SPAM_ERROR_44","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.317Z] [WARN] [agent2] [FAILOVER] Model gemini-3.1-pro-preview failed. Key: AIzaSyD5E9... Error: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-3.1-pro\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-3.1-pro\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-3.1-pro\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-3.1-pro\nPlease retry in 15.142298572s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-3.1-pro"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-3.1-pro","location":"global"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-3.1-pro","location":"global"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerDay-FreeTier","quotaDimensions":{"model":"gemini-3.1-pro","location":"global"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"15s"}]}}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.322Z] [LOG] [agent2] Attempting with: gemini-3-flash-preview...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.328Z] [WARN] [KeyRotator] PENALTY: Moving failed key AIzaSyD5E9... to the end of the global queue.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.331Z] [WARN] [KeyRotator] PENALTY: Moving failed key AIzaSyD5E9... to the end of the global queue.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.335Z] [WARN] [agent2] [FAILOVER] Model gemini-3.1-pro-preview failed. Key: AIzaSyD5E9... Error: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-3.1-pro\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-3.1-pro\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-3.1-pro\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-3.1-pro\nPlease retry in 15.142298572s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-3.1-pro"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-3.1-pro","location":"global"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-3.1-pro","location":"global"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerDay-FreeTier","quotaDimensions":{"model":"gemini-3.1-pro","location":"global"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"15s"}]}}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.353Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:43.684Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.369Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:43.741Z] [CIRCUIT_FAILURE] [HASH:62858464] {"errorSignature":"SPAM_ERROR_34","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.377Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:43.684Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.379Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:43.741Z] [CIRCUIT_FAILURE] [HASH:62858464] {"errorSignature":"SPAM_ERROR_34","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.442Z] [LOG] [agent2 - The Logic Gate] Memulai task (SUPREME 9-TIER PROTOCOL)...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.470Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:46.021Z] [CIRCUIT_FAILURE] [HASH:2df2ab4c] {"errorSignature":"SPAM_ERROR_52","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.473Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:45.979Z] [CIRCUIT_FAILURE] [HASH:cd26a1d3] {"errorSignature":"SPAM_ERROR_51","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.485Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:45.979Z] [CIRCUIT_FAILURE] [HASH:cd26a1d3] {"errorSignature":"SPAM_ERROR_51","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.487Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:46.021Z] [CIRCUIT_FAILURE] [HASH:2df2ab4c] {"errorSignature":"SPAM_ERROR_52","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.558Z] [WARN] [KeyRotator] PENALTY: Moving failed key AIzaSyAaYF... to the end of the global queue.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.561Z] [WARN] [agent2] [FAILOVER] Model gemini-3-flash-preview failed. Key: AIzaSyAaYF... Error: {"error":{"code":403,"message":"Your API key was reported as leaked. Please use another API key.","status":"PERMISSION_DENIED"}}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.565Z] [WARN] [KeyRotator] PENALTY: Moving failed key AIzaSyAaYF... to the end of the global queue.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.573Z] [LOG] [agent2] Attempting with: gemini-1.5-flash...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.578Z] [LOG] [agent2] Attempting with: gemini-1.5-flash...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.580Z] [WARN] [agent2] [FAILOVER] Model gemini-3-flash-preview failed. Key: AIzaSyAaYF... Error: {"error":{"code":403,"message":"Your API key was reported as leaked. Please use another API key.","status":"PERMISSION_DENIED"}}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.681Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:46.863Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.688Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:46.845Z] [CIRCUIT_FAILURE] [HASH:7833336f] {"errorSignature":"SPAM_ERROR_58","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.694Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:46.845Z] [CIRCUIT_FAILURE] [HASH:7833336f] {"errorSignature":"SPAM_ERROR_58","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.718Z] [LOG] [SAERE_LOG] [EVOLUTION_PROPOSAL] 
+## Evolution Proposal [2026-04-28T20:54:46.863Z]
+**Trigger:** 5 failures on category: "worker_fatal"
+**Proposal:** {}
+---
+
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.730Z] [WARN] [agent2] [FAILOVER] Model gemini-2.0-flash failed. Key: AIzaSyDW27... Error: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 13.303370828s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.0-flash"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.0-flash"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.0-flash"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"13s"}]}}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.735Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:46.972Z] [CIRCUIT_FAILURE] [HASH:381d5cbe] {"errorSignature":"SPAM_ERROR_59","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.737Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:46.972Z] [CIRCUIT_FAILURE] [HASH:381d5cbe] {"errorSignature":"SPAM_ERROR_59","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.750Z] [LOG] [agent2] Attempting with: gemini-2.0-pro-exp-02-05...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.759Z] [WARN] [KeyRotator] PENALTY: Moving failed key AIzaSyDW27... to the end of the global queue.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.769Z] [WARN] [agent2] [FAILOVER] Model gemini-2.0-flash failed. Key: AIzaSyDW27... Error: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 13.303370828s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.0-flash"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.0-flash"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.0-flash"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"13s"}]}}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.772Z] [LOG] [agent2] Attempting with: gemini-2.0-pro-exp-02-05...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.777Z] [WARN] [KeyRotator] PENALTY: Moving failed key AIzaSyDW27... to the end of the global queue.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.790Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:47.052Z] [CIRCUIT_FAILURE] [HASH:90834c1b] {"errorSignature":"SPAM_ERROR_60","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.793Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:47.052Z] [CIRCUIT_FAILURE] [HASH:90834c1b] {"errorSignature":"SPAM_ERROR_60","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.812Z] [LOG] THREE.WebGLRenderer: Context Lost.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.831Z] [LOG] THREE.WebGLRenderer: Context Lost.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.844Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:47.294Z] [CIRCUIT_FAILURE] [HASH:c04da8ac] {"errorSignature":"SPAM_ERROR_61","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T20:54:47.853Z] [LOG] [SAERE_LOG] [2026-04-28T20:54:47.294Z] [CIRCUIT_FAILURE] [HASH:c04da8ac] {"errorSignature":"SPAM_ERROR_61","count":1}
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
