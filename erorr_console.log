@@ -2687,3 +2687,186 @@ SOURCE: console:?:?
 STACK:
 N/A
 ----------------------------------
+[2026-04-28T23:22:30.076Z] [LOG] [ModelManager] First engine ready: Sang Penunjuk Jalan. Set as default.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:30.216Z] [LOG] [ModelManager] First engine ready: Sang Penunjuk Jalan. Set as default.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:30.269Z] [LOG] [ModelManager] At least one engine is ready. Splash screen can proceed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:30.299Z] [WARN] ⚠️ HMR Pause not detected in simulation.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:30.310Z] [LOG] 🧪 [TEST] HMR Death Loop Protection...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:30.327Z] [WARN] ⚠️ HMR Pause not detected in simulation.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:30.343Z] [LOG] 🧪 [TEST] HMR Death Loop Protection...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:30.360Z] [LOG] 🚀 [SAERE_IGNITION] Starting Singularity Ignition Sequence...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:30.363Z] [LOG] 🚀 [SAERE_IGNITION] Starting Singularity Ignition Sequence...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:30.437Z] [LOG] [ModelManager] At least one engine is ready. Splash screen can proceed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:30.602Z] [LOG] 🧪 [TEST] Offline Heuristic Resolution...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:30.649Z] [LOG] 🧪 [TEST] Offline Heuristic Resolution...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:30.744Z] [LOG] ✔️ Fetch failed as expected (Offline).
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:30.876Z] [LOG] ✔️ Fetch failed as expected (Offline).
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:30.960Z] [LOG] ✔️ Offline Heuristic Test Complete.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:31.241Z] [LOG] 🧪 [TEST] OOM & Spam Protection...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:31.383Z] [LOG] 🧪 [TEST] OOM & Spam Protection...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:31.413Z] [LOG] ✔️ Offline Heuristic Test Complete.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:31.438Z] [LOG] ✔️ Error Spam Injected. CircuitMaster monitoring active.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:31.463Z] [LOG] 🧪 [TEST] UI/UX Sync & Persistence...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:31.597Z] [LOG] ✔️ Error Spam Injected. CircuitMaster monitoring active.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:31.710Z] [LOG] ✔️ UI Sync Test Dispatched.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:31.720Z] [LOG] 🧪 [TEST] UI/UX Sync & Persistence...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:31.806Z] [LOG] ✅ [SAERE_IGNITION] All Phase 3 Validations Passed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:32.063Z] [LOG] [SAERE_LOG] [MANUAL_APPEND] .saere/core_memory.txt: SYSTEM_INIT_1777418549067
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:32.160Z] [LOG] [SAERE_LOG] [MANUAL_APPEND] .saere/core_memory.txt: SYSTEM_INIT_1777418549067
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:32.295Z] [LOG] ✔️ UI Sync Test Dispatched.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:32.699Z] [LOG] ✅ [SAERE_IGNITION] All Phase 3 Validations Passed.
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:33.761Z] [ERROR] Unhandled Promise Rejection: TypeError: Cannot read properties of undefined (reading 'length')
+TypeError: Cannot read properties of undefined (reading 'length')
+    at https://cautious-succotash-jj644gxwv44r2546j-3000.app.github.dev/src/services/vfsService.ts:369:21
+    at async VFSService.lock (https://cautious-succotash-jj644gxwv44r2546j-3000.app.github.dev/src/services/vfsService.ts:177:14)
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:33.781Z] Unhandled Rejection: TypeError: Cannot read properties of undefined (reading 'length')
+SOURCE: unhandledrejection:?:?
+STACK:
+TypeError: Cannot read properties of undefined (reading 'length')
+    at https://cautious-succotash-jj644gxwv44r2546j-3000.app.github.dev/src/services/vfsService.ts:369:21
+    at async VFSService.lock (https://cautious-succotash-jj644gxwv44r2546j-3000.app.github.dev/src/services/vfsService.ts:177:14)
+----------------------------------
+[2026-04-28T23:22:33.796Z] [ERROR] [UNHANDLED_REJECTION] TypeError: Cannot read properties of undefined (reading 'length')
+TypeError: Cannot read properties of undefined (reading 'length')
+    at https://cautious-succotash-jj644gxwv44r2546j-3000.app.github.dev/src/services/vfsService.ts:369:21
+    at async VFSService.lock (https://cautious-succotash-jj644gxwv44r2546j-3000.app.github.dev/src/services/vfsService.ts:177:14)
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:34.390Z] [WARN] [App] Cross-Origin Isolation required for WebContainer
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:34.444Z] [WARN] [App] Cross-Origin Isolation required for WebContainer
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:34.475Z] [LOG] [ModelManager] Installing queued models in background...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
+[2026-04-28T23:22:34.486Z] [LOG] [ModelManager] Installing queued models in background...
+SOURCE: console:?:?
+STACK:
+N/A
+----------------------------------
